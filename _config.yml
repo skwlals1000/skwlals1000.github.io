@@ -1,7 +1,7 @@
 # Site
-name: "Mediumish"
-title: "Mediumish"
-description: "Jekyll template, Medium styled, free for bloggers."
+name: "Matketer"
+title: "Matketer"
+description: "모든 맛집 정보는 여기에서"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /mediumish-theme-jekyll
@@ -14,22 +14,22 @@ permalink: /:title/
 # Authors
 authors:
   sal:
-    name: Sal
-    display_name: Sal
+    name: Jimin
+    display_name: Jimin
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+    email: najimin101830@kakao.com
+    web: https://teste-marketer-app.vercel.app/
+    twitter: https://teste-marketer-app.vercel.app/
+    description: "hello, im Jimin"
   john:
-    name: John
-    display_name: John    
+    name: Najimin
+    display_name: Na   
     avatar: 'assets/images/avatar.png'
     gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
+    email: najimin101830@gmail.com
+    web: https://teste-marketer-app.vercel.app/
+    twitter: https://teste-marketer-app.vercel.app/
+    description: "Hi, im Najimin"
 
 # Plugins
 plugins:
